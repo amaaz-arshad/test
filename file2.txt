@@ -1,3 +1,1 @@
-this.
-b2 branch modified.
-test message
+this is new text
