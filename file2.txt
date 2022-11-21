@@ -2,3 +2,6 @@ this is new text
 these are old changes
 
 new changes are these
+
+file2 being edited from main branch
+Its a lovely day today
