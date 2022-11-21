@@ -4,6 +4,3 @@ New changes from main
 text added from b2
 new text msg from b2
 recent text from b2
-file being edited from main
-
-sample text
