@@ -2,3 +2,4 @@ This is a new file.
 
 New changes from main
 text added from b2
+new text msg from b2
