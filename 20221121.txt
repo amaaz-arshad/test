@@ -3,3 +3,4 @@ hello world from main
 file edited from main again
 
 new text added from b2
+new text added from main
