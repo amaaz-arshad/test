@@ -4,3 +4,5 @@ changes made from b2
 file 3 edited from main
 qwerty
 abcdefg
+newtext
+fsfdsfds
