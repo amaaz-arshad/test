@@ -2,3 +2,6 @@ this is new text
 these are old changes
 
 new changes are these
+
+file 2 being edited
+today is monday
